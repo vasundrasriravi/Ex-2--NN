@@ -1,7 +1,7 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
-<H3>Experiment No. 2 </H3>
+Name: VASUNDRA SRI R
+Register no: 212222230168
+Date: 
+Experiment No. 2
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
