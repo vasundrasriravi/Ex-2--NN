@@ -1,7 +1,7 @@
-Name: VASUNDRA SRI R
-Register no: 212222230168
-Date: 
-Experiment No. 2
+## Name: VASUNDRA SRI R
+## Register no: 212222230168
+## Date: 
+## Experiment No. 2
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
